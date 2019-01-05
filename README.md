@@ -5,6 +5,8 @@ Restful Service using Spring boot, Cast Person Project was built using REST, lig
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+*Clone or Download* - [rogeralbuca](https://github.com/rogeralbuca/Restful-Service-Person-Cast/tree/dev)
+
 ### Prerequisites
 
 * [STS](https://spring.io/tools3/sts/) - The Spring Tool Suite 3
@@ -34,7 +36,7 @@ http://localhost:8090/rest/person
 
 ## Authors
 
-***Roger Albuquerque** - *Initial work* - [rogeralbuca](https://github.com/rogeralbuca/)
+**Roger Albuquerque** - *Initial work* - [rogeralbuca](https://github.com/rogeralbuca/)
 
 See also the list of [contributors](https://github.com/rogeralbuca/Restful-Service-Person-Cast/graphs/contributors) who participated in this project.
 
