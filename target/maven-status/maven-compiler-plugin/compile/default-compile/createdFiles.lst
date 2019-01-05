@@ -1,0 +1,6 @@
+br\com\castgroup\model\ResponseModel.class
+br\com\castgroup\PersonServiceApplication.class
+br\com\castgroup\repository\PersonRepository.class
+br\com\castgroup\model\PersonModel.class
+br\com\castgroup\ServletInitializer.class
+br\com\castgroup\service\PersonService.class
